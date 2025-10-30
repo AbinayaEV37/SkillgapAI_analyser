@@ -1,7 +1,7 @@
 # final.py
 """
-Unified SkillGap AI Analyzer - Final integrated Streamlit app
-Integrates: module1.py (Milestone1), milestone2/ (Milestone2), module3.py (Milestone3)
+SkillGap AI Analyzer - Final integrated Streamlit app
+Integrates: module1.py (Milestone1), milestone2, module3.py (Milestone3)
 Run: streamlit run final.py
 """
 
@@ -756,3 +756,4 @@ else:
         for k in list(st.session_state.keys()):
             del st.session_state[k]
         st.experimental_rerun()
+
