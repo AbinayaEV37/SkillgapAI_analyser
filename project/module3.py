@@ -1,8 +1,5 @@
-# milestone3.py
-# SkillGap AI Analyzer - Milestone 3 (Streamlit app)
-# Dark Neon theme - Model: all-MiniLM-L6-v2
-# -------------------------------------------------------
-
+# module3.py
+# SkillGap AI Analyzer - Milestone 3 
 import os
 import io
 import re
@@ -1142,3 +1139,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
